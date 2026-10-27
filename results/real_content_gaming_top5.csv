@@ -1,0 +1,6 @@
+brand,model,price_bdt,ram_gb,storage_gb,battery_mah,camera_mp,screen_inches,rating,processor,source,content_score,utility_score,hybrid_score,score
+Xiaomi,Xiaomi Redmi Turbo 3,28000.0,12.0,256.0,5000.0,50.0,6.67,4.15,Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm),KAGGLE_MOBILE_SPECIFICATIONS_2026,1.0,0.37718,0.68859,1.0
+Xiaomi,Xiaomi Redmi Note 12R Pro,28000.0,12.0,256.0,5000.0,48.0,6.67,3.95,Qualcomm SM4375 Snapdragon 4 Gen 1 (6 nm),KAGGLE_MOBILE_SPECIFICATIONS_2026,0.99262,0.37129,0.68196,0.99262
+Motorola,Motorola Edge 60s,30000.0,12.0,256.0,5500.0,50.0,6.67,3.75,Mediatek Dimensity 7400 (4 nm),KAGGLE_MOBILE_SPECIFICATIONS_2026,0.97818,0.35546,0.66682,0.97818
+Motorola,Motorola Edge 50,29000.0,8.0,256.0,5000.0,50.0,6.7,4.0,Qualcomm SM7450-AB Snapdragon 7 Gen 1 AE (4 nm),KAGGLE_MOBILE_SPECIFICATIONS_2026,0.97674,0.31018,0.64346,0.97674
+Huawei,Huawei Nova 5i Pro,28000.0,8.0,256.0,4000.0,48.0,6.26,4.2,HiSilicon Kirin 810 (7 nm),KAGGLE_MOBILE_SPECIFICATIONS_2026,0.97657,0.30832,0.64244,0.97657

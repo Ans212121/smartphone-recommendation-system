@@ -1,0 +1,168 @@
+{
+  "source_csv_rows": 5071,
+  "screened_catalog_rows": 4627,
+  "excluded_at_runtime": 444,
+  "screening": {
+    "ram_gb": [
+      2,
+      32
+    ],
+    "storage_gb": [
+      16,
+      2048
+    ],
+    "battery_mah": [
+      2500,
+      20000
+    ],
+    "camera_mp": [
+      2,
+      250
+    ],
+    "screen_inches": [
+      5,
+      9
+    ],
+    "rating": [
+      0,
+      5
+    ]
+  },
+  "evaluation": {
+    "balanced": {
+      "catalog_size": 4627,
+      "eligible_size": 2802,
+      "content_utility_overlap_at_k": 0.0,
+      "hybrid_mean_rating": 3.73,
+      "hybrid_mean_price_bdt": 20598.0,
+      "metric_note": "Descriptive only; no user relevance ground truth / accuracy claim."
+    },
+    "gaming": {
+      "catalog_size": 4627,
+      "eligible_size": 2802,
+      "content_utility_overlap_at_k": 0.0,
+      "hybrid_mean_rating": 3.86,
+      "hybrid_mean_price_bdt": 26200.0,
+      "metric_note": "Descriptive only; no user relevance ground truth / accuracy claim."
+    },
+    "camera": {
+      "catalog_size": 4627,
+      "eligible_size": 2802,
+      "content_utility_overlap_at_k": 0.0,
+      "hybrid_mean_rating": 4.0,
+      "hybrid_mean_price_bdt": 26600.0,
+      "metric_note": "Descriptive only; no user relevance ground truth / accuracy claim."
+    },
+    "battery": {
+      "catalog_size": 4627,
+      "eligible_size": 2802,
+      "content_utility_overlap_at_k": 0.0,
+      "hybrid_mean_rating": 3.83,
+      "hybrid_mean_price_bdt": 17199.6,
+      "metric_note": "Descriptive only; no user relevance ground truth / accuracy claim."
+    }
+  },
+  "gaming_top5": {
+    "content": [
+      {
+        "brand": "Xiaomi",
+        "model": "Xiaomi Redmi Turbo 3",
+        "price_bdt": 28000.0,
+        "score": 1.0
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Xiaomi Redmi Note 12R Pro",
+        "price_bdt": 28000.0,
+        "score": 0.99262
+      },
+      {
+        "brand": "Motorola",
+        "model": "Motorola Edge 60s",
+        "price_bdt": 30000.0,
+        "score": 0.97818
+      },
+      {
+        "brand": "Motorola",
+        "model": "Motorola Edge 50",
+        "price_bdt": 29000.0,
+        "score": 0.97674
+      },
+      {
+        "brand": "Huawei",
+        "model": "Huawei Nova 5i Pro",
+        "price_bdt": 28000.0,
+        "score": 0.97657
+      }
+    ],
+    "utility": [
+      {
+        "brand": "Walton",
+        "model": "Walton XANON X90",
+        "price_bdt": 29999.0,
+        "score": 0.52712
+      },
+      {
+        "brand": "Doogee",
+        "model": "Doogee V30 Pro",
+        "price_bdt": 30000.0,
+        "score": 0.51587
+      },
+      {
+        "brand": "Tecno",
+        "model": "Tecno Camon 20 Premier 5G Mr Doodle Edition",
+        "price_bdt": 20000.0,
+        "score": 0.45995
+      },
+      {
+        "brand": "Vivo",
+        "model": "Vivo Y100i",
+        "price_bdt": 25000.0,
+        "score": 0.45949
+      },
+      {
+        "brand": "Motorola",
+        "model": "Motorola Moto G15",
+        "price_bdt": 20000.0,
+        "score": 0.45818
+      }
+    ],
+    "hybrid": [
+      {
+        "brand": "Xiaomi",
+        "model": "Xiaomi Redmi Turbo 3",
+        "price_bdt": 28000.0,
+        "score": 0.68859
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Xiaomi Redmi Note 12R Pro",
+        "price_bdt": 28000.0,
+        "score": 0.68196
+      },
+      {
+        "brand": "T-Mobile",
+        "model": "T-Mobile REVVL 7 Pro",
+        "price_bdt": 15000.0,
+        "score": 0.66925
+      },
+      {
+        "brand": "Oscal",
+        "model": "Oscal Pilot 3",
+        "price_bdt": 30000.0,
+        "score": 0.66878
+      },
+      {
+        "brand": "Motorola",
+        "model": "Motorola Edge 60s",
+        "price_bdt": 30000.0,
+        "score": 0.66682
+      }
+    ]
+  },
+  "notes": [
+    "Original bundled CSV unchanged.",
+    "CPU/GPU performance is not benchmarked.",
+    "These are ranking scores, not accuracy metrics."
+  ]
+}
