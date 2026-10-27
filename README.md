@@ -1,5 +1,13 @@
 # Group 6: Smartphone Recommendation System — Real Dataset Version
 
+## Group Members
+
+- Shadi Dhaifallah Al-Zaidi
+- Mohammed Majed Al-Bakhit
+- Anas Ibrahim Al-Mutairi
+- Abdulaziz Zayed Al-Mutairi
+
+
 **Dataset:** Kaggle Global Mobile Phone Specifications & Prices (2026), uploaded archive.zip. 6,620 source rows; actual qualifying smartphone rows are listed in results/real_results.json.
 
 **Currency:** BDT (Bangladeshi taka), **NOT** USD or SAR. Prices reflect publisher listings, not live offers.
